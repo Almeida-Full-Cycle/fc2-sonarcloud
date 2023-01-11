@@ -1,6 +1,6 @@
 name: ci-sonarcloud
 on:
-  pull_requests:
+  pull_request:
     branchs: 
       - develop
 
